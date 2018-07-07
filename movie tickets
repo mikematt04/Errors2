@@ -1,0 +1,8 @@
+prompt = "Tell me how old you are and I will tell you how much a movie ticket is. "
+age = input(prompt)
+age = int()
+print (age)
+print ("You are " + str(age) + " years old.")
+#while age < 3 :
+ #       print ("you don't pay for admission.")
+
